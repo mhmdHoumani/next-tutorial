@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 1000,
+      "description": "Description 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 2000,
+      "description": "Description 2"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 3000,
+      "description": "Description 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 4000,
+      "description": "Description 4"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "price": 5000,
+      "description": "Description 5"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "category": "sports",
+      "description": "Description 1"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "category": "politics",
+      "description": "Description 2"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "category": "sports",
+      "description": "Description 3"
+    },
+    {
+      "id": 4,
+      "title": "News Article 4",
+      "category": "comedies",
+      "description": "Description 4"
+    },
+    {
+      "id": 5,
+      "title": "News Article 5",
+      "category": "athletes",
+      "description": "Description 5"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "category": "sports",
+      "description": "Description 1",
+      "date": "January 25"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "category": "technology",
+      "description": "Description 2",
+      "date": "February 25"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "category": "food",
+      "description": "Description 3",
+      "date": "March 25"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "category": "comedies",
+      "description": "Description 4",
+      "date": "April 25"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "category": "athletes",
+      "description": "Description 5",
+      "date": "May 25"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "category": "food",
+      "description": "Description 1",
+      "date": "June 25"
+    },
+    {
+      "id": 7,
+      "title": "Event 7",
+      "category": "technology",
+      "description": "Description 2",
+      "date": "July 25"
+    },
+    {
+      "id": 8,
+      "title": "Event 8",
+      "category": "food",
+      "description": "Description 3",
+      "date": "August 25"
+    },
+    {
+      "id": 9,
+      "title": "Event 9",
+      "category": "comedies",
+      "description": "Description 4",
+      "date": "September 25"
+    },
+    {
+      "id": 10,
+      "title": "Event 10",
+      "category": "sports",
+      "description": "Description 5",
+      "date": "October 25"
+    }
+  ],
+  "dashboard": {
+    "posts": 5,
+    "likes": 100,
+    "followers": 20,
+    "following": 50
+  }
+}
